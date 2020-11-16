@@ -1,0 +1,90 @@
+body{
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+    text-align: center;
+    color: #6c2eb9;
+    font-weight: normal;
+    font-size: 40px;
+    font-family: Arial;
+    text-transform: uppercase;
+}
+  
+h2 {
+    color: black;
+    font-weight: normal;
+    font-size: 30px;
+    font-family: Arial;
+    text-transform: uppercase;
+}
+
+table{
+	width: 100%;
+    background-color:  rgb(102, 130, 132);
+    border-collapse:collapse;
+    border-radius: 5px;
+}
+
+td.infoizq{
+	width: 50%;
+    text-align: left;
+    color: white;
+    border-radius: 5px;
+    background-color: rgb(102, 130, 132);
+}
+
+td.infoder{
+	width: 50%;
+    text-align: right;
+    color: white;
+    border-radius: 5px;
+    background-color: rgb(102, 130, 132);
+}
+
+table#tablacuerpo{
+	width: 100%;
+    background-color: white;
+    border-collapse:collapse;
+    border-radius: 5px;
+}
+
+td.cuerpo1{
+	width: 20%;
+    background-color: rgb(185, 215, 217);
+    border-radius: 10px;
+}
+
+td.cuerpo2{
+    width: 10%; 
+    background-color: rgb(255, 255, 255);
+    border-radius: 10px;
+}
+
+td.cuerpo3{
+    width: 70%;
+    background-color: rgb(244, 235, 195);
+    color: black;
+    border-radius: 10px;
+}
+
+td.pie{
+    width: 100%;
+    background-color: rgb(102, 130, 132);
+    color: white;
+    border-radius: 5px;
+    text-align: center;
+}
+
+table#punto2 tr td{
+    background-color: rgb(255, 255, 255);
+    border: 1px solid black;
+}
+
+td.punto2{
+    text-align: center;
+}
+
+td.punto2num{
+    text-align: right;
+}
